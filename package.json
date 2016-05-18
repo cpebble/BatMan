@@ -1,0 +1,9 @@
+{
+  "Name": "BatMan",
+  "Version": "0.1.0",
+  "License": "GPL 3",
+  "dependencies": {
+    "pushbullet": "^1.4.3",
+    "readline-sync": "^1.4.2"
+  }
+}
